@@ -1,0 +1,14 @@
+﻿label {
+    width:190px;
+    display:block;
+    margin-bottom:8px;
+    margin-left:10px;
+    font-weight:bold;
+}
+fieldset{
+    margin-bottom:20px;
+}
+
+input, select{
+    width:200px;
+}
